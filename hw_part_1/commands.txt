@@ -1,0 +1,17 @@
+mkdir,cd,touch
+mkdir,cd,touch
+mkdir cd touch
+cd mv
+cp
+mv
+mv
+mv
+rm
+mkdir
+mv
+mkdir
+mv
+mv
+cp 
+mv
+rm -r
